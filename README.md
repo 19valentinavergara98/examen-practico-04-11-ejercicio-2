@@ -14,3 +14,4 @@ para probar directo (con librería netapi32.lib)
 g++ nuevoUsuario.cpp -o nuevoUsuario.exe -lnetapi32
 g++ eliminaUsuario.cpp -o eliminaUsuario.exe -lnetapi32
 
+Para mayor seguridad y futuras mejoras, haz todos los cálculos en C++, creando al menos un archivo .cpp o bien .cgi
